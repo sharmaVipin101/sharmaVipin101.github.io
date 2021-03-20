@@ -1,0 +1,17 @@
+
+*{
+	box-sizing: border-box;
+	margin: 2px 5px 2px 5px;
+	padding: 2px 5px;
+	color: white;
+}
+
+
+body{
+	background-color: #98afc7;
+	background-size: cover;
+	background-position: center; 
+	background-attachment: fixed;
+	height: 100vh;
+	color: red;
+}
