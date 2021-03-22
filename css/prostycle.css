@@ -28,7 +28,7 @@ body{
 .container .card{
 	position: relative;
 	max-width: 300px;
-	height: 150px;
+	height: 215px;
 	background: #E5E4E2;
 	margin: 30px 10px;
 	padding: 20px 15px;
@@ -47,8 +47,6 @@ body{
 	width: 260px;
 	height: 260px;
 	top: -60px;
-	/*left: 5px;*/
-/*	z-index: 1;*/
 	box-shadow: 0 5px 20px rgba(0,0,0,0.2);
 }
 
@@ -58,8 +56,8 @@ body{
 	padding: 10px 15px;
 	text-align: center;
 	color: #111;
-	visibility: hidden;
-	opacity: 0;
+	/*visibility: hidden;
+	opacity: 0;*/
 	transition: 0.3s ease-in-out;
 }
 
